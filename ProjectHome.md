@@ -1,0 +1,3 @@
+This is a Java implementation of a CAD program to work with the [LDraw library](http://www.ldraw.org/).  It was originally created by an undergraduate software engineering class in the [Hendrix Computer Science Department](http://ozark.hendrix.edu/).
+
+Requires the [Jogl library](https://jogl.dev.java.net/servlets/ProjectDocumentList?folderID=9260&expandFolder=9260&folderID=0) and a [LDraw library](http://www.ldraw.org/Downloads-req-viewdownload-cid-1.html) to run.
